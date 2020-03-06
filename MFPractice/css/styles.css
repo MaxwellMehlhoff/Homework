@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Slabo+27px&display=swap');
+
+body {
+    font-family: 'Slabo 27px', serif;
+}
+
+.heading_font {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(76, 0, 114);
+}
+
+i {
+    color: rgb(76, 0, 114);
+}
+
+.jumbotron {
+    background: url("../images/Ram.jpg")  no-repeat center center ;
+    background-size: cover;
+    /* padding: 0 !important; */
+}
+.jumbotron .container {
+    background: #ffffff88;
+    width: 100%;
+    height: 100%;
+    /* padding: 50px; */
+}
